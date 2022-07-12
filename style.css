@@ -52,3 +52,10 @@ body {
 .blog-edit .blog-image {
     height: 100%;
 }
+
+.blog-add .blog-image {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 1rem;
+}
