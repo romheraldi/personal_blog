@@ -13,6 +13,50 @@ body {
     font-family: 'Poppins';
 }
 
+.navbar-background {
+    background-color: #0f5132;
+}
+
+.button-custom-success {
+    background-color: #198754;
+    color: white;
+}
+
+.button-custom-success:hover {
+    background-color: #157347;
+    color: white;
+}
+
+.button-custom-light {
+    background-color: white;
+    color: black;
+}
+
+.button-custom-light:hover {
+    background-color: white;
+    color: black;
+}
+
+.button-custom-warning {
+    background-color: #ffc107;
+    color: black;
+}
+
+.button-custom-warning:hover {
+    background-color: #ffca2c;
+    color: black;
+}
+
+.button-custom-danger {
+    background-color: #dc3545;
+    color: white;
+}
+
+.button-custom-danger:hover {
+    background-color: #bb2d3b;
+    color: white;
+}
+
 .blog-wrapper {
     padding: 1rem;
 }
